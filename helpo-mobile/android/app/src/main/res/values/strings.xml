@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">helpoApp</string>
+    <string moduleConfig="true" name="reactNativeCodePush_androidDeploymentKey"></string>
+    <string name="app_name">NativebaseKitchenSink</string>
 </resources>
